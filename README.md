@@ -16,7 +16,7 @@ Sidebar
 Product list
 
 
-![image]([../flutter_node_store/ss/home.png](https://github.com/Daitsuku/flutter_store/blob/main/ss/home.png)https://github.com/Daitsuku/flutter_store/blob/main/ss/home.png)
+![image](https://github.com/Daitsuku/flutter_store/blob/main/ss/home.png)
 
 
 Product Detail
